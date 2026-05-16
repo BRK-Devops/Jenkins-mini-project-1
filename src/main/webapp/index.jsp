@@ -952,7 +952,7 @@
         <!-- Hero Section -->
         <section class="hero">
             <div class="container">
-                <h1>Welcome to DarkShop 🌙</h1>
+                <h1>Welcome to myshop</h1>
                 <p>Experience luxury shopping in a premium dark theme environment with exclusive deals</p>
                 <div className="hero-buttons">
                     <button class="btn btn-primary" id="shopNowBtn">Shop Now <i class="fas fa-arrow-right"></i></button>
